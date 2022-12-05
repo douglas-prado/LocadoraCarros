@@ -1,0 +1,4 @@
+com\LocadoraCarros\ConfigTest.class
+com\LocadoraCarros\controllers\CarroControllerTest.class
+com\LocadoraCarros\LocadoraCarrosApplicationTests.class
+com\LocadoraCarros\service\CarroServiceTest.class

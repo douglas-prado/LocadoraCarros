@@ -1,0 +1,6 @@
+com\LocadoraCarros\repositories\CarroRepository.class
+com\LocadoraCarros\controllers\CarroController.class
+com\LocadoraCarros\LocadoraCarrosApplication.class
+com\LocadoraCarros\config\SpringFoxConfig.class
+com\LocadoraCarros\services\CarroService.class
+com\LocadoraCarros\entities\Carro.class
